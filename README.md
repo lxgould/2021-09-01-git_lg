@@ -1,4 +1,4 @@
-# 2021-09-01: NYR Workshop
+# 2021-09-01: NYR Git Workshop
 
 - `git init`: initialize git repository
 - `git status': display current repo ststus
@@ -20,5 +20,4 @@
 - `git remote -v:` display configured remotes
 - `git push <REMOTE> <BRANCH>`: push local changes in <BRANCH> to <REMOTE>
 - `git pull <REMOTE> <BRANCH>`: pull <BRANCH> changes from <REMOTE> to local  
-- Conflicts can happen when syncing  
-
+- Conflicts may happen during push/pull sync  
