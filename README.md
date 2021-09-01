@@ -19,3 +19,5 @@
   - `git remote add <NAME> <BRANCH>':
 - `git remote -v:` display configured remotes
 - `git push <REMOTE> <BRANCH>`: push local changes in BRANCH to REMOTE
+- `git pull <REMOTE> <BRANCH>`: pull <BRANCH> changes from <REMOTE> to local  
+  
