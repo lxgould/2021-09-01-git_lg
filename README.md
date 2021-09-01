@@ -39,3 +39,5 @@
 - `git fetch --prune`: delete local references where remote branchs were deleted
 - `git branch -d <BRANCH>`: delete <BRANCH> on local
   - `git branch -D <BRANCH>`: force delete <BRANCH> in case there are pending changes
+
+- changes from b2
