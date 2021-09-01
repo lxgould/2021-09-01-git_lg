@@ -4,3 +4,5 @@
 - `git status': display current repo ststus
 - `git add <FILE>`: adds <FILE> to staging area
 - `git commit`: opens text editor to commit contents of staging area
+  - `-m "<message>"`: use <message> as commit message without opening editor
+  
