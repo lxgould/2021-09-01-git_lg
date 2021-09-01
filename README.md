@@ -43,3 +43,9 @@
 - `git rebase main`: rebases current branch to end of main
 
 - use branch protection rules to force PRs and code reviews
+
+## GIT FLOW
+
+- convention for naming branches
+- main is the "production" branch... highly guarded
+- dev is the development branch that team members can clone and modify and make pull requests to.
