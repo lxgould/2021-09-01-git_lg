@@ -13,7 +13,7 @@
   - `git checkout <HASH>`: move HEAD to <HASH> (detached HEAD state)
   - `git switch main`: reattach HEAD to latest commit of main branch
 
-## REMOTES
+## ReMoTes
 
 - `git remote add <NAME> <URL>`: add remote named <NAME> using <URL>
   - `git remote add <NAME> <BRANCH>':
@@ -22,7 +22,7 @@
 - `git pull <REMOTE> <BRANCH>`: pull <BRANCH> changes from <REMOTE> to local  
 - Conflicts may happen during push/pull sync  
 
-## BRANCHES
+## bRancHes
 
 - `git branch <NAME>`: create branch at HEAD
 - `git branch -a`: list all branches
@@ -39,3 +39,5 @@
 - `git fetch --prune`: delete local references where remote branchs were deleted
 - `git branch -d <BRANCH>`: delete <BRANCH> on local
   - `git branch -D <BRANCH>`: force delete <BRANCH> in case there are pending changes
+
+- changes from b2
