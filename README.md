@@ -8,3 +8,4 @@
 - `git log`: shows repo history
   - `--oneline`: each commit is shown as a single line
 - `git diff [HEAD~#/hash#]`: display changes between commits and current state
+- `git restore`:
