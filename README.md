@@ -26,6 +26,6 @@
 
 - `git branch <NAME>`: create branch at HEAD
 - `git branch -a`: list all branches
-- 'git switch <BRANCH>`: move head to <BRANCH>
+- `git switch <BRANCH>`: move head to <BRANCH>
   - `git checkout <BRANCH>`: alternate syntax (older)
  
