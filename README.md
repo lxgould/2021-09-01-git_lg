@@ -1,4 +1,4 @@
-# NYR Git Workshop (2021-09-01)
+# 2021-09-01: NYR Git Workshop
 
 - `git init`: initialize git repository
 - `git status': display current repo ststus
@@ -21,4 +21,11 @@
 - `git push <REMOTE> <BRANCH>`: push local changes in <BRANCH> to <REMOTE>
 - `git pull <REMOTE> <BRANCH>`: pull <BRANCH> changes from <REMOTE> to local  
 - Conflicts may happen during push/pull sync  
-  
+
+## BRANCHES
+
+- `git branch <NAME>`: create branch at HEAD
+- `git branch -a`: list all branches
+- 'git switch <BRANCH>`: move head to <BRANCH>
+  - `git checkout <BRANCH>`: alternate syntax (older)
+ 
