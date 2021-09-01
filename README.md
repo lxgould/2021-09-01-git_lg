@@ -41,3 +41,5 @@
   - `git branch -D <BRANCH>`: force delete <BRANCH> in case there are pending changes
 
 - `git rebase main`: rebases current branch to end of main
+
+- use branch protection rules to force PRs and code reviews
