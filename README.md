@@ -1,4 +1,4 @@
-# 2021-09-01-git_lg
+# 2021-09-01: NYR Workshop
 
 - `git init`: initialize git repository
 - `git status': display current repo ststus
@@ -18,6 +18,7 @@
 - `git remote add <NAME> <URL>`: add remote named <NAME> using <URL>
   - `git remote add <NAME> <BRANCH>':
 - `git remote -v:` display configured remotes
-- `git push <REMOTE> <BRANCH>`: push local changes in BRANCH to REMOTE
+- `git push <REMOTE> <BRANCH>`: push local changes in <BRANCH> to <REMOTE>
 - `git pull <REMOTE> <BRANCH>`: pull <BRANCH> changes from <REMOTE> to local  
-  
+- Conflicts can happen when syncing  
+
