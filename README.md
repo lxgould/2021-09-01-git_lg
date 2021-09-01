@@ -28,4 +28,14 @@
 - `git branch -a`: list all branches
 - `git switch <BRANCH>`: move head to <BRANCH>
   - `git checkout <BRANCH>`: alternate syntax (older)
- 
+
+- `git switch -c <BRANCH>`: create and move to new <BRANCH>
+  - `git checkout -b <BRANCH>`: alternate syntax (older)
+
+- pull request(PR): merging a branch on the remote (e.g. GitHub)
+  - update PR by pushing to the branch
+  - merge PR in the remote
+  - delete branch on remote
+- `git fetch --prune`: delete local references where remote branchs were deleted
+- `git branch -d <BRANCH>`: delete <BRANCH> on local
+  - `git branch -D <BRANCH>`: force delete <BRANCH> in case there are pending changes
