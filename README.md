@@ -9,3 +9,7 @@
   - `--oneline`: each commit is shown as a single line
 - `git diff [HEAD~#/hash#]`: display changes between commits and current state
 - `git restore`:
+- `git checkout <HASH> <FILE>`: revert <FILE> to the version in <HASH>
+  - `git checkout <HASH>`: move HEAD to <HASH> (detached HEAD state)
+  - `git switch main`: reattach HEAD to latest commit of main branch
+
