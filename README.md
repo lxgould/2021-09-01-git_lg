@@ -13,3 +13,9 @@
   - `git checkout <HASH>`: move HEAD to <HASH> (detached HEAD state)
   - `git switch main`: reattach HEAD to latest commit of main branch
 
+## REMOTES
+
+- `git remote add <NAME> <URL>`: add remote named <NAME> using <URL>
+  - `git remote add <NAME> <BRANCH>':
+- `git remote -v:` display configured remotes
+- `git push <REMOTE> <BRANCH>`: push local changes in BRANCH to REMOTE
