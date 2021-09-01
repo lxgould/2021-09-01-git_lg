@@ -21,3 +21,11 @@
 - `git push <REMOTE> <BRANCH>`: push local changes in <BRANCH> to <REMOTE>
 - `git pull <REMOTE> <BRANCH>`: pull <BRANCH> changes from <REMOTE> to local  
 - Conflicts may happen during push/pull sync  
+
+## BRANCHES
+
+- `git branch <NAME>`: create branch at HEAD
+- `git branch -a`: list all branches
+- 'git switch <BRANCH>`: move head to <BRANCH>
+  - `git checkout <BRANCH>`: alternate syntax
+ 
